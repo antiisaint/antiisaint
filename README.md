@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anti</h1>
-- 🔭 I’m currently working on [P3 Labs](https://twitter.com/p3labs_xyz)
+- 🔭 I’m currently working on P3 Labs
 
 - 🌱 I’m currently learning **Rust**
 
