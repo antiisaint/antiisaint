@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from Canada<br><br>- 🔭 I’m working as a full-stack dev<br>- 📚 I'm currently learning rust!<br>- ⚡ I'm currently grinding diablo 4</p>
+<p align="left">I'm from Canada 🇨🇦 <br><br>- 🔭 I’m working as a full-stack dev<br>- 📚 I'm currently learning rust!<br>- ⚡ I'm currently grinding diablo 4</p>
 
 ###
 
